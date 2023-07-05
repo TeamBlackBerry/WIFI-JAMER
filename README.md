@@ -2,7 +2,7 @@
 It,s A Wifi Jamer Tool For Jam Any Connect Wifi Network 
 
 
-INSTALL
+# INSTALL
 
     pkg update && upgrade 
     pkg install git 
