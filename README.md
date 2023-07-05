@@ -1,7 +1,9 @@
 # WIFI-JAMER
 It,s A Wifi Jamer Tool For Jam Any Connect Wifi Network 
 
+
 INSTALL
+
     pkg update && upgrade 
     pkg install git 
     pkg intall python
